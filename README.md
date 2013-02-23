@@ -12,7 +12,7 @@ In theory this should work with any Windows printer that supports EPL (Eltron Pr
 
 #### Tested With:
 
-*Zebra LP2844 (USB) Direct Thermal Printer
+* Zebra LP2844 (USB) Direct Thermal Printer
 
 ### Copyright and License
 
