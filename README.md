@@ -7,7 +7,8 @@ A library containing helper methods to make printing EPL (Eltron Programming Lan
 
 In theory this should work with any Windows printer that supports EPL (Eltron Programming Language).
 
-Tested With:
+### Tested With:
+
 Zebra LP2844 (USB) Direct Thermal Printer
 
 ## Copyright and License
