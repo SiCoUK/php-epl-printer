@@ -14,7 +14,7 @@ In theory this should work with any Windows printer that supports EPL (Eltron Pr
 
 * Zebra LP2844 (USB) Direct Thermal Printer
 
-### Copyright and License
+#### Copyright and License
 
 PHP EPL Printer was written by Simon Corless (currently under no licence), it's very much unfinished and no responsibility can be taken for use of this code.
 
