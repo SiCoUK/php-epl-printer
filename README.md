@@ -1,7 +1,11 @@
 # PHP EPL Printer
 ======================
 
-A library containing helper methods to make printing EPL (specifically to Zebra Printers) easier. This library uses command line printing which is being developed on Windows.
+A library containing helper methods to make printing EPL (Eltron Programming Language) easier. This library uses command line printing which is being developed on Windows.
+
+## Compatible Printers
+
+In theory this should work with any Windows printer that supports EPL (Eltron Programming Language).
 
 Tested With:
 Zebra LP2844 (USB) Direct Thermal Printer
