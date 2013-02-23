@@ -1,5 +1,5 @@
 <?php
-namespace Sicouk\EplPrinter;
+//namespace Sicouk\EplPrinter;
 
 class EplPrinter
 {
